@@ -1,2 +1,2 @@
 # SQL-Server-ITI
-## My Solutions for SQL Server Course by ITI
+## My Solutions for SQL Server Problems by ITI
